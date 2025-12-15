@@ -4,8 +4,8 @@ import datetime
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = "6429597196:AAEyr-7FuckYouBITCH_WHORE_SUCKER"
-ADMIN_ID = 0000
+BOT_TOKEN = "YOURS"
+ADMIN_ID = YourID
 CHANNEL_ID = -100000000
 
 DATA_FILE = "bot_data.json"
